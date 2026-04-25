@@ -11,7 +11,7 @@
 
 - 🎓 Bachelor of Engineering in Information Technology — Al-Baath University, Syria
 - 💼 **Co-Founder & Mobile Developer** @ [Tech Titans Digital](https://techtitansdigital.com)
-- 🏢 **EdTech & Technical Operations** @ Oryx Sky Education, Dubai
+- 🏢 **Program Support — Technical Operations & EdTech** @ Oryx Sky Education, Dubai
 - 📱 Specialized in **Flutter, Firebase, and Clean Architecture**
 - 🌍 Based in **Dubai, UAE** | Originally from **Homs, Syria**
 - ❤️ 5+ years volunteer with the **Syrian Arab Red Crescent**
@@ -80,15 +80,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulkafibrejawi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulkafi99&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkafibrejawi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulkafi99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkafibrejawi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulkafi99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -103,5 +103,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulkafibrejawi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Abdulkafi99&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
